@@ -9,6 +9,7 @@
 1. Controller
 2. Service
 3. Repository
+
 4.Model
 
 ## OOP used:-
